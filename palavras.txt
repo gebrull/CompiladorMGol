@@ -1,0 +1,12 @@
+inicio		inicio
+varinicio	varinicio
+varfim		varfim
+escreva		escreva
+leia 		leia
+se			se
+entao		entao
+fimse		fimse
+fim 		fim
+int			int
+lit			lit
+real		real

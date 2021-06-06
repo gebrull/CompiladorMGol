@@ -1,0 +1,30 @@
+P
+inicio V A
+varinicio LV
+D LV
+varfim ;
+id TIPO ;
+int
+real
+lit
+ES A		
+leia id ;
+escreva ARG ;
+literal
+num
+id
+CMD A
+id rcb LD ;
+OPRD opm OPRD
+OPRD
+id
+num
+COND A
+CABECALHO CORPO
+se ( EXP_R ) entao
+OPRD opr OPRD
+ES CORPO
+CMD CORPO
+COND CORPO
+fimse
+fim

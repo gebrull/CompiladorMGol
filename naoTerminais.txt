@@ -1,0 +1,17 @@
+P'
+P 
+V 
+LV 
+D 
+TIPO 
+A
+ES 
+ARG 
+CMD
+LD 
+OPRD 
+COND 
+CABECALHO
+EXP_R
+CORPO 
+A
